@@ -1,2 +1,2 @@
-# kvardhan10.github.io
+# kv.github.io
 This is a demo website
